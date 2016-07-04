@@ -20,5 +20,8 @@
     "mocha": "2.5.3",
     "power-assert": "1.4.1"
   },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
   "private": true
 }
