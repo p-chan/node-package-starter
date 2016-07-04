@@ -1,5 +1,5 @@
-# <package>
-<overview>
+# Package
+overview
 
 ## Install
 ```
