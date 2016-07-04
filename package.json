@@ -1,0 +1,20 @@
+{
+  "name": "<package>",
+  "version": "1.0.0",
+  "description": "<description>",
+  "keywords": [
+    "<key>",
+    "<key>",
+    "<key>"
+  ],
+  "author": "<name> <<mail>> (<site>)",
+  "license": "MIT",
+  "repository": "https://github.com/<name>/<package>.git",
+  "bugs": "https://github.com/<name>/<package>/issues",
+  "main": "./src/index.js",
+  "bin": "./bin/index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true
+}
