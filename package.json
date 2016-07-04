@@ -12,8 +12,13 @@
   "repository": "https://github.com/<name>/<package>.git",
   "bugs": "https://github.com/<name>/<package>/issues",
   "main": "./src/index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "2.5.3",
+    "power-assert": "1.4.1"
+  },
   "private": true
 }
