@@ -3,16 +3,16 @@ overview
 
 ## Install
 ```
-$ npm install <package>
+npm install <package>
 ```
 
 ## Usage
-```
+```js
 package(opts);
 ```
 
 ## Example
-```
+```js
 const package = require('package');
 
 // pattern 1
