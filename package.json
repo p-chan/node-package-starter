@@ -12,7 +12,6 @@
   "repository": "https://github.com/<name>/<package>.git",
   "bugs": "https://github.com/<name>/<package>/issues",
   "main": "./src/index.js",
-  "bin": "./bin/index.js",
   "scripts": {},
   "dependencies": {},
   "devDependencies": {},
