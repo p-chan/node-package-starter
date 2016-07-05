@@ -22,7 +22,9 @@
     "test": "mocha",
     "lint": "npm run lint:src && npm run lint:test",
     "lint:src": "eslint src",
-    "lint:test": "eslint test"
+    "lint:test": "eslint test",
+    "prepublish": "rm -rf lib && npm run build",
+    "preupdate": "rm -rf lib && npm run build"
   },
   "dependencies": {},
   "devDependencies": {
