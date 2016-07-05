@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = class Index {
   constructor(name) {
     this.name = name;
