@@ -6,6 +6,6 @@ module.exports = class Index {
   }
 
   hello() {
-    return `Hello ${this.name}`
+    return `Hello ${this.name}`;
   }
 };
